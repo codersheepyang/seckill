@@ -13,7 +13,6 @@
 <img src="http://kan.027cgb.com/622253/github/seckill/TIM%E6%88%AA%E5%9B%BE20190627131120.png"  alt="核心流程" widht="150" height = "150"/> 
 
 ### 三.秒杀系统业务分析：
-&emsp;&emsp; 用户对商品的操作是业务的核心:
-
+用户对商品的操作是业务的核心: 
  <img src="http://kan.027cgb.com/622253/github/seckill/%E7%94%A8%E6%88%B7%E9%92%88%E5%AF%B9%E5%BA%93%E5%AD%98%E4%B8%9A%E5%8A%A1%E5%88%86%E6%9E%90.png"  alt="用户针对库存业务分析" widht="150" height = "200" align="left"/> 
  
