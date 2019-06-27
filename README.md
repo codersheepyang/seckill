@@ -16,5 +16,13 @@
 用户对商品的操作是业务的核心:  
 
 <img src="http://kan.027cgb.com/622253/github/seckill/TIM%E6%88%AA%E5%9B%BE20190627132646.png"  alt="用户针对库存业务分析" widht="150" height = "200"/> 
- 
- 
+
+### 四.秒杀系统存在的问题以及难点：
+1. 如下图会存在的一些问题:  
+<img src="http://kan.027cgb.com/622253/github/seckill/TIM%E6%88%AA%E5%9B%BE20190627123157.png"  alt="问题" widht="150" height = "200"/>  
+这些问题的出现无异于是对操作没有事务的支持，导致出现的数据不一致的问题，所以我们需要使用MySQL服务以及Spring为我们提供的事务支持来保证数据的一致性以及安全性。
+
+
+2.难点:  
+<img src="http://kan.027cgb.com/622253/github/seckill/TIM%E6%88%AA%E5%9B%BE20190627123933.png"  alt="问题" widht="150" height = "200"/>  
+对于秒杀接口如果暴露的话，那么这对用户是不公平的，因为一些黑客会通过不正规手段来快速获取商品的秒杀权。
