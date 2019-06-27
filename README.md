@@ -16,3 +16,4 @@
 用户对商品的操作是业务的核心:  
 <img src="http://kan.027cgb.com/622253/github/seckill/TIM%E6%88%AA%E5%9B%BE20190627132646.png"  alt="用户针对库存业务分析" widht="150" height = "200" align="left"/> 
  
+ 
