@@ -10,6 +10,5 @@
 + 项目管理工具：maven
 
 ### 二.秒杀系统业务核心流程：
- ![核心流程](http://kan.027cgb.com/622253/github/seckill/TIM%E6%88%AA%E5%9B%BE20190627131120.png)
- <img src="http://kan.027cgb.com/622253/github/seckill/TIM%E6%88%AA%E5%9B%BE20190627131120.png"  alt="核心流程" widht="400" height = "400"/>
+ <img src="http://kan.027cgb.com/622253/github/seckill/TIM%E6%88%AA%E5%9B%BE20190627131120.png"  alt="核心流程" widht="200" height = "200"/> 
  ### 三.
